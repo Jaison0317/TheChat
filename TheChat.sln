@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheChat", "TheChat\TheChat.csproj", "{48EF0441-EA03-406E-AD2D-99034A7C590C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheChat.Core", "TheChat.Core\TheChat.Core.csproj", "{C23674D1-E7F3-4F40-BE3E-52DEA1240E14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48EF0441-EA03-406E-AD2D-99034A7C590C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EF0441-EA03-406E-AD2D-99034A7C590C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EF0441-EA03-406E-AD2D-99034A7C590C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EF0441-EA03-406E-AD2D-99034A7C590C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C23674D1-E7F3-4F40-BE3E-52DEA1240E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23674D1-E7F3-4F40-BE3E-52DEA1240E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23674D1-E7F3-4F40-BE3E-52DEA1240E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23674D1-E7F3-4F40-BE3E-52DEA1240E14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
